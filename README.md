@@ -1,1 +1,1 @@
-# Business card app - built with Flutter
+# Business Card Site - build with Flutter
